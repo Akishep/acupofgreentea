@@ -100,7 +100,7 @@ address {
 
 
 .btn-burger {
-    position: absolute;
+    position: fixed;
     top: 5px;
     right: 10px;
     z-index: 2;
