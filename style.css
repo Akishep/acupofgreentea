@@ -107,7 +107,7 @@ address {
     display: block;
     width: 44px;
     height: 44px;
-    background: url("../img/burger.svg") center center / 35px 20px no-repeat;
+    background: url("img/burger.svg") center center / 35px 20px no-repeat;
     cursor: pointer;
 
   
@@ -116,7 +116,7 @@ address {
 }
 
 .nav-toggle:checked ~ .btn-burger {
-    background: url("../img/close.svg") center center /26px 26pc no-repeat;
+    background: url("img/close.svg") center center /26px 26pc no-repeat;
 
 }
 
